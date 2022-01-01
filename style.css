@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+  font-family: Roboto, Verdana, sans-serif;
+  text-decoration: underline red 4px;
+}
+
+h2 {
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+  color: magenta;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.link-recipe {
+  color: green;
+  text-decoration: dashed underline overline;
+}
+
+.picture-main {
+  text-decoration: line-through;
+}
